@@ -1,0 +1,10 @@
+lib/
+Script/
+FastAPI-The-Complete-Course-main.zip
+PDF+FastAPI+Slides.pdf
+lib/site-package/
+FastAPI-The-Complete-Course-main
+fastapienv/__pycache__
+fastapienv/TodoApp/__pycache__
+requirements.txt
+fastapienv/Scripts
